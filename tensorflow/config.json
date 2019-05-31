@@ -7,7 +7,6 @@
   "url": "https://github.com/sschiea956/hassio-addons/tree/master/tensorflow",
   "startup": "once",
   "boot": "manual",
-  "image": "sschiea956/{arch}-addon-tensorflow",
   "map": ["config:rw"],
   "options": {},
   "schema": {}
