@@ -1,13 +1,13 @@
 {
   "name": "TensorFlow Installer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "slug": "tensorflow",
-  "description": "TensorFlow installer for Home Assistant.",
+  "description": "TensorFlow installer for Hasssio.",
   "arch": ["amd64"],
-  "url": "https://github.com/hunterjm/hassio-addons/tree/master/tensorflow",
+  "url": "https://github.com/sschiea956/hassio-addons/tree/master/tensorflow",
   "startup": "once",
   "boot": "manual",
-  "image": "hunterjm/{arch}-addon-tensorflow",
+  "image": "sschiea956/{arch}-addon-tensorflow",
   "map": ["config:rw"],
   "options": {},
   "schema": {}
